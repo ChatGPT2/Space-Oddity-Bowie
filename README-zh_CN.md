@@ -41,3 +41,22 @@
 > 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
 >
 > 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
+
+# API key 获取
+
+使用「快捷指令」调用 ChatGPT API，必须要有 OpenAI API key。你可以到 OpenAI 官网免费获取，步骤如下：
+
+1. 到 https://platform.openai.com 注册账号并登陆
+2. 点击右上角头像，选择 “View API keys”
+3. 点击页面右侧 “Create new secret key” 按钮生成 API key
+4. 复制 API key，备用。注意 API key 只出现一次。忘了只能重新生成一个新的key。
+
+> 使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $5 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
+
+# 编辑「快捷指令」替换 API key
+
+打开「快捷指令」app，找到下载的「智能聊天」快捷指令，长按选择「编辑」，将上面的 API key 粘贴到下面文本框中。
+
+<div align="center">
+<img width="500" src="img/replace-api-key-cn.png" />
+</div>
