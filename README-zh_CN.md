@@ -30,3 +30,14 @@
 支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
 
 新功能：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
+
+> 需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
+
+- [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
+- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
+
+# 常见问题
+
+> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
+>
+> 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
