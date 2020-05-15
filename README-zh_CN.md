@@ -91,3 +91,18 @@
 - 退出聊天命令、退出提示 ｜ 新聊天命令、新聊天欢迎
 
 <div align="center">
+<img width="200" src="img/IMG_quit-chat-cn.png" />
+<img width="200" src="img/IMG_new-chat-cn.png" />
+</div>
+
+## 自定义系统消息
+
+你也可以自定义系统消息，系统消息有助于设置助手的行为。在本「快捷指令」系统消息是使用的 ChatGPT 的默认系统消息之一：
+
+> 你是 ChatGPT，是由 OpenAI 训练的大型语言模型。请尽可能简洁地回答问题。知识截止日期为：2021年9月，当前日期为：Current Date。
+
+修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
+
+<div align="center">
+<img width="240" src="img/IMG_system-message-cn.png" />
+</div>
