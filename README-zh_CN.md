@@ -116,3 +116,15 @@
 你当然也可以在通用的那个「快捷指令」里面，在自己轮输入时直接说一遍，让他帮你当翻译。但是不如上面那个专门修改了系统消息为翻译的「快捷指令」更方便，这个「翻译家」直接就可以工作了，非常 nice！这也是 Prompt 的意义，可以先自定义一个场景，然后更高效使用 ChatGPT。所以现在网上各种 Prompt 的教程。我们可以举一反三，让 ChatGPT 更好为我们服务！
 
 # 微信群交流
+
+<div align="center">
+<img width="240" src="img/wx-group3.jpg" />
+</div>
+
+# 请作者喝一杯奶茶🥤
+
+<div align="center">
+<img width="240" src="img/support-wx-zan.jpg" />
+</div>
+
+👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
