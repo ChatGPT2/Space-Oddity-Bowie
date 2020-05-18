@@ -2,4 +2,4 @@
 
 # [简体中文文档](README-zh_CN.md)
 
-Start the "Shortcut" t
+Start the "Shortcut" through Siri t
