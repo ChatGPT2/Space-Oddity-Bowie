@@ -8,4 +8,6 @@ Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri in
 
 Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePod、CarPlay.
 
-## ChatGPT Sir
+## ChatGPT Siri 1.0
+
+Suppor
