@@ -10,4 +10,4 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 
 ## ChatGPT Siri 1.0
 
-Support continuous chatting,
+Support continuous chatting, exit cha
