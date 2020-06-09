@@ -11,3 +11,5 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 ## ChatGPT Siri 1.0
 
 Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
+
+- [简体中文版](h
