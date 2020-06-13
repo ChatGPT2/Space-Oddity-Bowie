@@ -12,4 +12,4 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 
 Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
 
-- [简体中文版](https://www.icloud.com/shortcuts/620e11d10
+- [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd3
