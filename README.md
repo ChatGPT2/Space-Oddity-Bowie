@@ -17,4 +17,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 
 ## ChatGPT Siri 1.1
 
-> I reco
+> I recommend inst
