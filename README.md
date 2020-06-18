@@ -17,4 +17,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 
 ## ChatGPT Siri 1.1
 
-> I recommend installing version 1.2, which saves c
+> I recommend installing version 1.2, which saves chat logs with
