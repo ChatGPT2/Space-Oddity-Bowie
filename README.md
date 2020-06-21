@@ -18,3 +18,5 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 ## ChatGPT Siri 1.1
 
 > I recommend installing version 1.2, which saves chat logs with more chat details to a txt file for easier management.
+
+Suppo
