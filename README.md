@@ -21,4 +21,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 
 Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
 
-New feature:
+New feature: support f
