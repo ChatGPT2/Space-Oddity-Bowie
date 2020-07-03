@@ -23,3 +23,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 
 New feature: support for automatically saving chat records to the "Notes" app.
 
+- [简体中文版](h
