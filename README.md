@@ -24,4 +24,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 New feature: support for automatically saving chat records to the "Notes" app.
 
 - [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
-- [English Version](https://www.icloud.com/shor
+- [English Version](https://www.icloud.com/shortcuts/e2884
