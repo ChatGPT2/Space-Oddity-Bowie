@@ -28,4 +28,4 @@ New feature: support for automatically saving chat records to the "Notes" app.
 
 ## ChatGPT Siri 1.2
 
-Support continuous chatting, exit chatting, start new c
+Support continuous chatting, exit chatting, start new chatting, cus
