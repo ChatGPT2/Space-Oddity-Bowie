@@ -30,4 +30,4 @@ New feature: support for automatically saving chat records to the "Notes" app.
 
 Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
 
-New feature: aut
+New feature: automatically sav
