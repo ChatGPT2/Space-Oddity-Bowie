@@ -32,4 +32,4 @@ Support continuous chatting, exit chatting, start new chatting, customize API ke
 
 New feature: automatically save chat data to a txt file, the record includes the sending and receiving time of each conversation, tokens consumption statistics, open the "Files" app, find the path: iCloud Drive/Shortcuts/ChatGPT-log to view the chat files, Supports iCloud sync.
 
-> You need to open 'Settings' - Apple ID - iCloud - iCloud Drive function to enable the featu
+> You need to open 'Settings' - Apple ID - iCloud - iCloud Drive function to enable the feature of savi
