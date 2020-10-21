@@ -35,4 +35,4 @@ New feature: automatically save chat data to a txt file, the record includes the
 > You need to open 'Settings' - Apple ID - iCloud - iCloud Drive function to enable the feature of saving to txt file.
 
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
-- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58
+- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc
