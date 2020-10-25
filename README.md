@@ -39,4 +39,4 @@ New feature: automatically save chat data to a txt file, the record includes the
 
 # API key acquisition
 
-To
+To use the "shortcut
