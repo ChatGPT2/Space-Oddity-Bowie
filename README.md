@@ -37,4 +37,6 @@ New feature: automatically save chat data to a txt file, the record includes the
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
-# API key ac
+# API key acquisition
+
+To
