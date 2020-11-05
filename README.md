@@ -39,4 +39,4 @@ New feature: automatically save chat data to a txt file, the record includes the
 
 # API key acquisition
 
-To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You ca
+To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You can go to the Open
