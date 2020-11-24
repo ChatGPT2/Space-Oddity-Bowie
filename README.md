@@ -42,4 +42,4 @@ New feature: automatically save chat data to a txt file, the record includes the
 To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You can go to the OpenAI official website to get it for free, the steps are as follows:
 
 1. Go to https://platform.openai.com to register an account and log in.
-2. Click on the av
+2. Click on the avatar in 
