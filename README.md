@@ -43,4 +43,4 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 
 1. Go to https://platform.openai.com to register an account and log in.
 2. Click on the avatar in the upper right corner and select "View API keys".
-3. Click the "Create new secret k
+3. Click the "Create new secret key" button on the
