@@ -47,4 +47,4 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 4. Copy the API key for backup. Note that the API key only appears once. If you forgot it, regenerate a new one.
 
 
-> Note: There is 
+> Note: There is a fee to use
