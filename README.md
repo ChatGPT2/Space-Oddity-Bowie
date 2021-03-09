@@ -51,4 +51,4 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 
 # Edit shortcut to replace API key
 
-Open the "Sh
+Open the "Shortcuts" app,
