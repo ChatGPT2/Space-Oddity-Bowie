@@ -53,4 +53,5 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 
 Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key into the text box below.
 
-<di
+<div align="center">
+<img w
