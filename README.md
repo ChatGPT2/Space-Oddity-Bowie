@@ -57,4 +57,6 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 <img width="500" src="img/replace-api-key.png" />
 </div>
 
-# How to
+# How to use
+
+Start the
