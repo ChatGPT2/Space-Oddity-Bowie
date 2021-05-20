@@ -59,4 +59,4 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 
 # How to use
 
-Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then y
+Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can start cha
