@@ -61,4 +61,6 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 
 Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can start chatting with Siri, our Siri has become very smart, enjoy! 🎉
 
-> update: I recommend you to change the default name because Siri cannot recognize "ChatGPT" accurat
+> update: I recommend you to change the default name because Siri cannot recognize "ChatGPT" accurately.
+
+If you
