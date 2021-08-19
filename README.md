@@ -63,4 +63,6 @@ Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can 
 
 > update: I recommend you to change the default name because Siri cannot recognize "ChatGPT" accurately.
 
-If you don't like the name, you can rename the shortcut, change it to any name you like, and then you can chat with Siri just say "Hey, Siri, xxx", xxx is the new name you  chose, it's better not to add special symbols to the name. It’s hard to read the symbols 😂, If Siri cannot match the name of the shortcut, it won’t wor
+If you don't like the name, you can rename the shortcut, change it to any name you like, and then you can chat with Siri just say "Hey, Siri, xxx", xxx is the new name you  chose, it's better not to add special symbols to the name. It’s hard to read the symbols 😂, If Siri cannot match the name of the shortcut, it won’t work!
+
+Of course
