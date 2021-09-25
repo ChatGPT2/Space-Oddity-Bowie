@@ -67,4 +67,6 @@ If you don't like the name, you can rename the shortcut, change it to any name y
 
 Of course, you can also directly click the shortcut to use. At this time, it is used in the form of a dialog box, and it will not be read out. You can add it to your Home Screen for quick access. end 🎉
 
-# Advance
+# Advanced usage
+
+This
