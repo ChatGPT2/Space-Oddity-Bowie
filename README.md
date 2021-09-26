@@ -69,4 +69,4 @@ Of course, you can also directly click the shortcut to use. At this time, it is 
 
 # Advanced usage
 
-This shortcut suppor
+This shortcut supports iPhone
