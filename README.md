@@ -69,4 +69,4 @@ Of course, you can also directly click the shortcut to use. At this time, it is 
 
 # Advanced usage
 
-This shortcut supports iPhone, iPad and Mac, supports continuous conversations,
+This shortcut supports iPhone, iPad and Mac, supports continuous conversations, supports quit 
