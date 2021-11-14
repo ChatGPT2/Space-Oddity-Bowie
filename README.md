@@ -72,4 +72,4 @@ Of course, you can also directly click the shortcut to use. At this time, it is 
 This shortcut supports iPhone, iPad and Mac, supports continuous conversations, supports quit chat, new chat. The usage is as follows:
 
 - The default is to support continuous dialogue, which can record context and discuss issues continuously.
-- If you want to start a new chat, say "New chat" when it's our turn, Siri will start a new round of chat, which means that the previous context will be lost, and you can't continue chatting with the previ
+- If you want to start a new chat, say "New chat" when it's our turn, Siri will start a new round of chat, which means that the previous context will be lost, and you can't continue chatting with the previous informa
