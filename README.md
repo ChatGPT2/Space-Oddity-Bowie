@@ -75,4 +75,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 - If you want to start a new chat, say "New chat" when it's our turn, Siri will start a new round of chat, which means that the previous context will be lost, and you can't continue chatting with the previous information.
 - If you want to quit ChatGPT to use the system's Siri, you can say "Quit chat" on your turn. Of course, you can also close Siri directly and open it again. But here it is more natural to provide the command to exit.
 
-## Customize name, icon and
+## Customize name, icon and hint messages
