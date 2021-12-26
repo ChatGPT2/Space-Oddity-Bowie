@@ -77,4 +77,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ## Customize name, icon and hint messages.
 
-- Rename an
+- Rename and choose icon | 
