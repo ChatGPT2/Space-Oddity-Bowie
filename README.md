@@ -79,4 +79,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 - Rename and choose icon | Welcome and continue hints.
 
-<div 
+<div align="center
