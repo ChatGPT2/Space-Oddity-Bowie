@@ -79,4 +79,5 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 - Rename and choose icon | Welcome and continue hints.
 
-<div align="center
+<div align="center">
+<img wid
