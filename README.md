@@ -80,4 +80,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 - Rename and choose icon | Welcome and continue hints.
 
 <div align="center">
-<img width="200" src="img/IMG_renam
+<img width="200" src="img/IMG_rename-icon.png"
