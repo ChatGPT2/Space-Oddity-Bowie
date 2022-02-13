@@ -81,4 +81,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 <div align="center">
 <img width="200" src="img/IMG_rename-icon.png" />
-<img width="200" src="img/IMG_welcome-contin
+<img width="200" src="img/IMG_welcome-continue.png" /
