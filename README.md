@@ -86,4 +86,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ---
 
-- Quit chat 
+- Quit chat comma
