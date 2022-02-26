@@ -86,4 +86,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ---
 
-- Quit chat command, quit chat hint
+- Quit chat command, quit chat hint ｜ new chat com
