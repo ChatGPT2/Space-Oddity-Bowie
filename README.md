@@ -95,4 +95,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ## Customize system message
 
-You can also customize system me
+You can also customize system message, w
