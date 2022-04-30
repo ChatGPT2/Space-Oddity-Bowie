@@ -97,4 +97,4 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 You can also customize system message, which help set the behavior of the assistant. In this "shortcut" system message is one of the default system messages of ChatGPT used:
 
-> You are ChatGPT, a large language model trained by OpenAI. Answer as concisely a
+> You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Knowl
