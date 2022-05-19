@@ -99,4 +99,6 @@ You can also customize system message, which help set the behavior of the assist
 
 > You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Knowledge cutoff: {knowledge_cutoff} Current date: {current_date}
 
-Modify method, edit the "shortcut", slide down, and find the position as shown
+Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
+
+<
