@@ -102,4 +102,4 @@ You can also customize system message, which help set the behavior of the assist
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
 <div align="center">
-<img width="240" src="im
+<img width="240" src="img/IMG_system-me
