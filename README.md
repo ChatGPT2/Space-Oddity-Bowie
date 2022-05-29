@@ -105,4 +105,4 @@ Modify method, edit the "shortcut", slide down, and find the position as shown i
 <img width="240" src="img/IMG_system-message.png" />
 </div>
 
-For exampl
+For example, you can r
