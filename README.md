@@ -107,4 +107,4 @@ Modify method, edit the "shortcut", slide down, and find the position as shown i
 
 For example, you can replace system message with the following:
 
-> I will let you act as a translator. Your goal is to translat
+> I will let you act as a translator. Your goal is to translate any language 
